@@ -17,7 +17,6 @@
   display: none;
 }
 
-
 .desktopnavbar {
   padding: 1rem;
   background: #3c3a39;
@@ -41,6 +40,7 @@
 .desktopname {
   color: #fff;
 }
+
 .navbarmenu {
   width: 2rem;
   height: 2rem;
@@ -441,8 +441,11 @@ li {
 }
 
 /* responsiveness */
+
 /* 750px- tablet */
+
 /* 550px- telefone */
+
 /* 1050px- large screen */
 
 /* mobile version */
@@ -463,13 +466,12 @@ li {
   .desktopname {
     color: #fff;
   }
-
 }
 
-/* 
-  
+/*
 
- 
+
+
   .mobileheader{
     display: none;
   }
@@ -482,7 +484,7 @@ li {
   } */
 
 /* .iconscontainer{
-  
+
   } */
 
 /* .desktopicons {
@@ -495,12 +497,14 @@ li {
     right: 96.25%;
     top: 21.7%;
     bottom: 91.87%; */
+
 /* } */
 
 /* .desktopnavbarcontainer{
     display: flex;
     align-items: center;
   } */
+
 /* .icons {
     display: none;
   }
@@ -511,5 +515,5 @@ li {
     list-style-type: none;
   }
 
-  
+
 } */
